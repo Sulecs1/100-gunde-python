@@ -4,5 +4,5 @@
 
 Bu yolculukla ilgili tuttuğum günlüğüme [buradan](https://www.cemalcici.com/tag/100-gunde-python/) ulaşabilirsiniz.
 
-* 1. Gün - Yazılımcı Olmuş Rock Yıldızı!
-* 2. Gün - Aramızda Bahşişin Lafı mı Olur?
+* [1\. Gün - Yazılımcı Olmuş Rock Yıldızı!](https://github.com/cemalcici/100-gunde-python/tree/main/gun-001)
+* [2\. Gün - Aramızda Bahşişin Lafı mı Olur?](https://github.com/cemalcici/100-gunde-python/tree/main/gun-002)
