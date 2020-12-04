@@ -8,11 +8,11 @@
 * Sayı Manipülasyonu
 * F-String Kavramı
 
-[İkinci Gün Notlarım](#)
+[İkinci Gün Notlarım](https://github.com/cemalcici/100-gunde-python/blob/main/gun-002/day-002.py)
 
 ## Günün Sonunda Gerçekleştirdiğim Proje
 
-* [Tip Calculator](#)
+* [Tip Calculator](https://github.com/cemalcici/100-gunde-python/blob/main/gun-002/project-002.py)
 
 ## 100 Günde Python Günlüğüm
 
