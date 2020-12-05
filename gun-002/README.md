@@ -16,4 +16,4 @@
 
 ## 100 Günde Python Günlüğüm
 
-[100 Günde Python | Gün 2 | Aramızda Bahşişin Lafı mı Olur](#)
+[100 Günde Python | Gün 2 | Aramızda Bahşişin Lafı mı Olur](https://www.cemalcici.com/programlama/100-gunde-python-gun-2/)
