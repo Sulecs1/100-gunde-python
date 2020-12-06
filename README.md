@@ -7,3 +7,4 @@ Bu yolculukla ilgili tuttuğum günlüğüme [buradan](https://www.cemalcici.com
 * [1\. Gün - Yazılımcı Olmuş Rock Yıldızı!](https://github.com/cemalcici/100-gunde-python/tree/main/gun-001)
 * [2\. Gün - Aramızda Bahşişin Lafı mı Olur?](https://github.com/cemalcici/100-gunde-python/tree/main/gun-002)
 * [3\. Gün - Kod Adasında Aranan Hazine](https://github.com/cemalcici/100-gunde-python/tree/main/gun-003)
+* [4\. Gün - Taş, Kağıt, Makas, Python](https://github.com/cemalcici/100-gunde-python/tree/main/gun-004)
