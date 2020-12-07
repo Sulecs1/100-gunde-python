@@ -8,3 +8,4 @@ Bu yolculukla ilgili tuttuğum günlüğüme [buradan](https://www.cemalcici.com
 * [2\. Gün - Aramızda Bahşişin Lafı mı Olur?](https://github.com/cemalcici/100-gunde-python/tree/main/gun-002)
 * [3\. Gün - Kod Adasında Aranan Hazine](https://github.com/cemalcici/100-gunde-python/tree/main/gun-003)
 * [4\. Gün - Taş, Kağıt, Makas, Python](https://github.com/cemalcici/100-gunde-python/tree/main/gun-004)
+* [5\. Gün - Komutlar Arasında Döndüm Durdum](https://github.com/cemalcici/100-gunde-python/tree/main/gun-005)
