@@ -1,0 +1,39 @@
+# Problem 1
+
+number = int(input("Which number do you want to check?"))
+
+if number % 2 == 0:  # = ifadesi eksikti, düzelttim
+    print("This is an even number.")
+else:
+    print("This is an odd number.")
+
+# %%
+
+# Problem 2
+
+year = int(input("Which year do you want to check?"))  # int fonksiyonu eksikti.
+
+if year % 4 == 0:
+    if year % 100 == 0:
+        if year % 400 == 0:
+            print("Leap year.")
+        else:
+            print("Not leap year.")
+    else:
+        print("Leap year.")
+else:
+    print("Not leap year.")
+
+# %%
+
+# Problem 3
+
+for number in range(1, 101):
+    if number % 3 == 0 and number % 5 == 0:  # or yerine and yaptım
+        print("FizzBuzz")
+    elif number % 3 == 0:  # elif ifadesi ile değiştirdim
+        print("Fizz")
+    elif number % 5 == 0:  # elif ifadesi ile değiştirdim
+        print("Buzz")
+    else:
+        print(number)  # köşeli parantez ifadesini kaldırdım.
