@@ -26,9 +26,25 @@ while game_is_on:
     time.sleep(0.1)
     snake.move()
 
+    # yılan yemeği yediğinde yapılacaklar
     if snake.head.distance(food) < 15:
         food.refresh()
-        score.update_score()
+        snake.extend()
+        score.increase_score()
+
+    # yılan duvara çarptığında yapılacaklar
+    if snake.head.xcor() > 290 or snake.head.xcor() < -290 or snake.head.ycor() > 290 or snake.head.ycor() < -290:
+        game_is_on = False
+        score.game_over()
+
+    # yılan kendi bedenine çarprığında yapılacaklar
+
+    for segment in snake.segments[1:]:
+        # for içerisinde dönen segmentlerin ilki yılanın baş kısmı olduğundan mantıksal hataya düşmemek için
+        # ilk segmenti pas geçtik
+        if snake.head.distance(segment) < 10:
+            game_is_on = False
+            score.game_over()
 
 
 
