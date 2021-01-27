@@ -29,11 +29,11 @@ kisi_listesi = []
 tekrar_sor = True
 
 while tekrar_sor:
-    isim = input("İsmin nedir?: ")
+    isim = input("İsmin nedir?: ").title()
     teklif = int(input("Teklif ücreti nedir?: ₺"))
     sozluge_kaydet(kisi_adi=isim, teklif_ucreti=teklif)
-    secenek = input("Başka teklif verecek var mı? 'evet' veya 'hayır' olarak belirt.")
-    if secenek != "evet":
+    secenek = input("Başka teklif verecek var mı? 'evet' veya 'hayır' olarak belirt.").lower()
+    if secenek == "hayır":
         tekrar_sor = False
     os.system("cls")
 
